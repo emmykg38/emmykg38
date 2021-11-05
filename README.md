@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmykg38
-- 👀 I’m interested in Java, JavaScript, Python, SQL
-- 🌱 I’m currently learning JavaScript + Angular
+- 👀 I’m interested in Java, JavaScript, Python, SQL, Cybersecurity
+- 🌱 I’m currently learning Java, Spring, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
